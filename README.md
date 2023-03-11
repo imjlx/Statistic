@@ -1,2 +1,3 @@
 # Statistic
-Some useful statistic method. 
+
+Some useful statistic method.
